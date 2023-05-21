@@ -33,6 +33,8 @@ Host meetups about ReFi and ecology in different places of the city.
 
 - **Alejandro Soto** is a full stack developer and a Co-Founder at dotlabs(), he loves to teach about blockchain, web3 and ReFi. Has collaborated in some spaces of free education in Medellin city, is member of ETHMedellín and ETHColombia DAO, and is very passionate about astronomy in his free time.
 
+- **Eamonn** set up his first online fitness business while studying Sports Science in University,  which had clients worldwide. Later Eamonn transitioned into marketing and business development where he has been working for the last 7 years. Currently the marketing manager for Bitgreen and co-founder of his own marketing portfolio with 9 million followers.
+
 - **Sergio Martinez** was involved in the crypto world since the end of 2016, in charge of participating in community aid projects such as Agouti which gave community lunches in Venezuela, later participating in a project of tokenization of beer assets and the construction of crypto ATM systems. Sergio is currently an active member of dotlabs() Medellín, which is in charge of educating the community in the exciting world of blockchain.
 
 - **Green Digital Guardians'** purpose is to create the biggest community of Green Digital Guardians of The Green Arks of The Planet Earth where new technologies such as Blockchain and NTFs will allow laying the foundations for a decentralized model of environmental protection, supportive, visionary, and democratic.
