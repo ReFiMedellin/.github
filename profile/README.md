@@ -2,27 +2,27 @@
 
 We are excited to announce the formation of a ReFi Local Node in Medellín, led by Juan Giraldo and Tereza Bizkova, to nurture community conversations around Web3 enabled regenerative-oriented-innovations (ROIs). Our aim is to empower the youth in Medellín to address some of our city's most pressing challenges through hackathons, incubation, and investment. These challenges include poverty, inequality, youth unemployment, and a general lack of access to resource flows such as energy, water, sanitation, housing, and education.
 
-### Engage the local community:
-Host four ReFi Medellín events over the next year. These events will include expert guest speakers in ReFi, Web3, and urban challenges in Latin American cities.
+## Activities of ReFi Medellín
+- ### Engage the local community
+  Host four ReFi Medellín events over the next year. These events will include expert guest speakers in ReFi, Web3, and urban challenges in Latin American cities.
 
-### ReFi Hackathons. 
-We hope to engage young people from different developers communities and different universities, and private sector organizations interested in Web3 and sustainability.
+- ### ReFi Hackathons
+  We hope to engage young people from different developers communities and different universities, and private sector organizations interested in Web3 and sustainability.
 
-### Support Web3 and Regenerative Oriented Innovations (ROIs):
-Incubate and invest in social enterprises that come out of ReFi Medellín hackathons.
+- ### Support Web3 and Regenerative Oriented Innovations (ROIs)
+  Incubate and invest in social enterprises that come out of ReFi Medellín hackathons.
 
-### Impact Onboarding:
-Any active ecological group or group or friends that wants to do an impact activity such as planting trees, cleaning environments, garbage collection, etc. can reach us and ask for support.
+- ### Impact Onboarding
+  Any active ecological group or group or friends that wants to do an impact activity such as planting trees, cleaning environments, garbage collection, etc. can reach us and ask for support.
 
-### Keep Medellín as Eternal Spring City:
-Activity dedicated to plant flowers and help regenerate the flower insect in Medellín, helping this way to protect Medellín as a Eternal Spring City.
+- ### Keep Medellín as Eternal Spring City
+  Activity dedicated to plant flowers and help regenerate the flower insect in Medellín, helping this way to protect Medellín as a Eternal Spring City.
 
-### ReFi Medellín Workshops:
-Host meetups about ReFi and ecology in different places of the city.
+- ### ReFi Medellín Workshops
+  Host meetups about ReFi and ecology in different places of the city.
 
 
-## Outline of our team:
-
+## Outline of our team
 - **Juan Giraldo** is a highly motivated individual with a passion for exploring alternative perspectives and challenging conventional social systems. He holds a degree in Agricultural Engineering and is Specialist in Preparation and Evaluation of Private Projects. Additionally, he is a Government Contracting Specialist, and holds a Master's degree in Project Management.
 
   As a responsible and professional leader, he possesses strong project management skills and demonstrates a deep commitment to social and environmental issues. His specific area of interest lies within agricultural sciences, with a particular focus on knowledge transfer.
