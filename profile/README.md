@@ -12,7 +12,7 @@ We are excited to announce the formation of a ReFi Local Node in Medellín, led 
 - ### Support Web3 and Regenerative Oriented Innovations (ROIs)
   Incubate and invest in social enterprises that come out of ReFi Medellín hackathons.
 
-- ### Impact Onboarding
+- ### [Impact Onboarding](https://github.com/ReFiMedellin/.github/tree/main/Impact%20Onboarding)
   Any active ecological group or group or friends that wants to do an impact activity such as planting trees, cleaning environments, garbage collection, etc. can reach us and ask for support.
 
 - ### Keep Medellín as Eternal Spring City
