@@ -2,6 +2,12 @@
 
 We are excited to announce the formation of a ReFi Local Node in Medellín, led by Juan Giraldo, Tereza Bizkova, Alejandro Soto, Eamonn, Sergio, Green Digital guardians and Dotlabs() to nurture community conversations around Web3 enabled regenerative-oriented-innovations (ROIs). Our aim is to empower the youth in Medellín to address some of our city's most pressing challenges through hackathons, incubation, and investment. These challenges include poverty, inequality, youth unemployment, and a general lack of access to resource flows such as energy, water, sanitation, housing, and education.
 
+Our aim is to empower the youth in Medellín to address some of our city's most pressing challenges through hackathons, incubation, and investment. These challenges include poverty, inequality, youth unemployment, and a general lack of access to resource flows such as energy, water, sanitation, housing, and education.
+
+We kindly ask for your support and donations, so we can start our journey of youth-led education for regeneration!
+
+Wallet *(Ethereum):* 0xd4AC6c14B4C96F7e66049210F56cb07468028d4e
+
 ## Activities of ReFi Medellín
 - ### Engage the local community
   Host four ReFi Medellín events over the next year. These events will include expert guest speakers in ReFi, Web3, and urban challenges in Latin American cities.
