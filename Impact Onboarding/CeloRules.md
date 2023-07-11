@@ -1,4 +1,4 @@
-# Impact Onboarding (Celo)
+# Impact Onboarding *(Celo)*
 *(Minimum 12 per year)*
 
 Any active ecological group or group or friends that wants to do an impact activity such as planting trees, cleaning environments, garbage collection, etc. can reach us and ask for support, the guidelines for this activities are the followings:
